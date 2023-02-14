@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>778328355190-lp4pttsucn75nr7v161rnfp961grt04a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.778328355190-lp4pttsucn75nr7v161rnfp961grt04a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>778328355190-k0m09nhqvjo66db3gucb5jp18nd41drv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBC5N5KGK5qzw2awVVHP65a_eUX1eCuG7k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>778328355190</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.iotDht11</string>
+	<key>PROJECT_ID</key>
+	<string>iot-kelompok-3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>iot-kelompok-3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:778328355190:ios:f0d8b225b25c5aa6688a57</string>
+	<key>DATABASE_URL</key>
+	<string>https://iot-kelompok-3-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
